@@ -4,13 +4,6 @@
   <strong>Uma ferramenta web interativa feita para estudantes visualizarem e resolverem o balanceamento de equações químicas direto no navegador.</strong>
 </p>
 
-<p align="center">
-  <img src="https://shields.io" alt="Público Alvo">
-  <img src="https://shields.io" alt="Interface">
-  <img src="https://shields.io" alt="Status">
-  <img src="https://shields.io" alt="Licença">
-</p>
-
 ---
 
 ## 🏫 Sobre o Projeto
