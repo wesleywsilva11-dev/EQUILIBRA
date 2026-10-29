@@ -1,35 +1,30 @@
 # ⚖️ Equilibra
 
 <p align="center">
-  <strong>Um assistente de estudos químico feito para ajudar estudantes a balancearem equações e dominarem a estequiometria de forma simples.</strong>
+  <strong>Uma ferramenta web interativa feita para estudantes visualizarem e resolverem o balanceamento de equações químicas direto no navegador.</strong>
+</p>
+
+<p align="center">
+  <img src="https://shields.io" alt="Público Alvo">
+  <img src="https://shields.io" alt="Interface">
+  <img src="https://shields.io" alt="Status">
+  <img src="https://shields.io" alt="Licença">
 </p>
 
 ---
 
 ## 🏫 Sobre o Projeto
-O **Equilibra** é um assistente digital de química feito sob medida para alunos do ensino médio e fundamental, além de professores de ciências. 
+O **Equilibra** nasceu para resolver uma falta de opções na internet: a escassez de ferramentas de química com interfaces visuais simples e amigáveis para estudantes. Muitas soluções existentes rodam apenas em terminais locais ou possuem designs antigos e complexos.
 
-Balancear equações químicas costuma ser um processo cansativo de tentativa e erro para quem está começando. Esta ferramenta funciona como um tutor virtual: ela encontra os coeficientes corretos instantaneamente e ajuda o estudante a entender a Lei de Conservação das Massas (Lavoisier) sem frustração.
+Este projeto é um site interativo focado no aprendizado visual. O aluno não precisa programar ou usar o terminal; basta inserir as fórmulas, selecionar os átomos ou coeficientes através de botões e inputs na tela, e ver o balanceamento químico acontecer de forma clara e instantânea.
 
-## ✨ Funcionalidades Planejadas (Roteiro)
-* **Digitação Descomplicada:** O estudante pode digitar a reação de forma natural (ex: `H2 + O2 -> H2O`) e o sistema formata os elementos automaticamente.
-* **Verificação de Tarefas:** Um ótimo companheiro para os alunos conferirem os exercícios de casa e aprenderem com os erros.
-* **Contagem Visual de Átomos:** Uma tabela simples que mostra quantos átomos de cada elemento existem antes e depois da reação, tornando o aprendizado visual e prático.
+## ✨ Funcionalidades Planejadas (Interface Visual)
+* **Entrada Facilitada:** Campos de texto limpos e botões intuitivos para inserir os elementos da equação.
+* **Painel de Seleção:** Opção de selecionar ou ajustar coeficientes e átomos clicando em botões, tornando a experiência tátil e fácil de usar no celular.
+* **Resultado Gráfico:** Exibição do antes e depois da reação de forma organizada na tela do navegador para conferência rápida de exercícios de estequiometria.
 
-## 🛠️ Tecnologias Utilizadas (Planejado)
-* **Interface (Frontend):** HTML5, CSS3 e JavaScript puro (ES6) — focado em ser leve, colorido e fácil de usar no celular.
-* **Lógica Matemática:** Algoritmo dinâmico para contagem de elementos e resolução do balanço químico.
-
-## 🚀 Como Executar o Projeto Localmente
-```bash
-# Clonar o repositório
-git clone https://github.com
-
-# Entrar na pasta do projeto
-cd equilibra
-```
-
-Após clonar, basta abrir o arquivo `index.html` no seu navegador para testar o assistente!
+## 🛠️ Tecnologias Utilizadas
+* **Interface (Frontend):** HTML5, CSS3 e JavaScript puro (ES6) — priorizando uma interface leve, colorida, responsiva e totalmente livre de dependências pesadas.
 
 ## 📄 Licença
 Este projeto está sob a licença MIT. Sinta-se livre para usar, estudar e modificar em sua escola!
